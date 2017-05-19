@@ -2,4 +2,4 @@
 
 Collaborateurs :
 
-Ruperez Romain
+Ruperez Romain ruperez.dev@gmail.com
