@@ -1,5 +1,7 @@
 # sudoku_actualite_g4
 
-Kimbidima Vivien : viendev34@gmail.com
+Collaborateurs :
 
+Kimbidima Vivien : viendev34@gmail.com
+Ruperez Romain ruperez.dev@gmail.com
 
