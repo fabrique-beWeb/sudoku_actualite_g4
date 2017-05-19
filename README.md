@@ -1,5 +1,5 @@
 # sudoku_actualite_g4
 
-Kimbidima Vivien 
+Kimbidima Vivien : viendev34@gmail.com
 
 
